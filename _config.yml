@@ -5,7 +5,7 @@ about: >
     Sayid.so coming soon
 
 master_repo: false
-url: "http://sayid.so/sayid.so"
+url: "http://sayid.so"
 markdown: kramdown
 highlighter: rouge
 
