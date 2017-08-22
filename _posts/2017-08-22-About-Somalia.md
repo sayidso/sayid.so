@@ -1,7 +1,9 @@
 ---
+layout: post
 style: default
-type: Post
+title: About Somalia
 ---
+
 
 [Source](https://commons.wikimedia.org/wiki/Atlas_of_Somalia "Permalink to Atlas of Somalia - Wikimedia Commons")
 # Atlas of Somalia - Wikimedia Commons
