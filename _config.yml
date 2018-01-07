@@ -1,25 +1,25 @@
 name: Sayid.so
 description: >
-<<<<<<< HEAD
+
     Website Soomaliyeed, halkan waxaad kagala soconkartaa arima ku saabsan talo, waano, diini iyo danta umada afka Somaliga.
 =======
     Sayid.so waa web site Somali halkan kagala soco macluumaad, talo, warbixin, iyo diini intaba.
     
->>>>>>> branch 'gh-pages' of https://github.com/sayidso/sayid.so.git
+
 about: >
-<<<<<<< HEAD
+
     Sayid.so coming soon
 =======
    Welcome to sayid.so, coming soon. Kusoo dhawaada sayid.so, mar-dhaw ayaanu soo daawici doona.
     <hr>
->>>>>>> branch 'gh-pages' of https://github.com/sayidso/sayid.so.git
+
 
 master_repo: false
-<<<<<<< HEAD
+
 url: "sayidso.github.io/sayid.so"
 =======
 url: "https://sayid.so"
->>>>>>> branch 'gh-pages' of https://github.com/sayidso/sayid.so.git
+
 markdown: kramdown
 highlighter: rouge
 
