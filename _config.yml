@@ -2,14 +2,14 @@ name: Sayid.so
 description: >
 
     Website Soomaliyeed, halkan waxaad kagala soconkartaa arima ku saabsan talo, waano, diini iyo danta umada afka Somaliga.
-=======
+
     Sayid.so waa web site Somali halkan kagala soco macluumaad, talo, warbixin, iyo diini intaba.
     
 
 about: >
 
     Sayid.so coming soon
-=======
+
    Welcome to sayid.so, coming soon. Kusoo dhawaada sayid.so, mar-dhaw ayaanu soo daawici doona.
     <hr>
 
@@ -17,7 +17,7 @@ about: >
 master_repo: false
 
 url: "sayidso.github.io/sayid.so"
-=======
+
 url: "https://sayid.so"
 
 markdown: kramdown
