@@ -1,9 +1,0 @@
----
-layout: post
-style: default
-title: This Is my first post in a while.
----
-Thank you for being part of this website.
-
-
-
