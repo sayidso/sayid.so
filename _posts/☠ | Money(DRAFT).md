@@ -1,2 +1,5 @@
-# Greed
-I have come to the conculion gdj 
+---
+layout: post
+style: default
+title: ☠ | Money(DRAFT).md
+---
