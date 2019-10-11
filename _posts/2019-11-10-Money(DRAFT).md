@@ -1,7 +1,7 @@
 ---
 layout: post
 style: default
-title: ☠ | Money(DRAFT).md
+title: money.md
 ---
  
 # Test 2
