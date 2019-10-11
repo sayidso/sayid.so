@@ -1,16 +1,18 @@
 name: Sayid.so
 description: >
     Website Soomaliyeed, halkan waxaad kagala soconkartaa arima ku saabsan talo, waano, diini iyo danta umada afka Somaliga.
+    Sayid.so waa web site Somali halkan kagala soco macluumaad, talo, warbixin, iyo diini intaba.
+    
 about: >
-    Sayid.so coming soon
+
 
 master_repo: false
 url: "sayidso.github.io/sayid.so"
+url: "https://sayid.so"
 markdown: kramdown
 highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist']
-
 paginate: 3
 
 logo:             logo.png
@@ -28,7 +30,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-83638578-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
